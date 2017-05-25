@@ -29,7 +29,7 @@ const styles = {
   textStyle: {
     fontSize: 20
   }
-}
+};
 
 // Make the componet available to other parts of the app
 export { Header };
