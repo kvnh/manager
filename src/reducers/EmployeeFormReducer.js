@@ -1,6 +1,6 @@
 import {
   EMPLOYEE_UPDATE
-} from '../actions';
+} from '../actions/types';
 
 const INITIAL_STATE = {
   name: '',
